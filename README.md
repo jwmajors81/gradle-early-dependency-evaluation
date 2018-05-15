@@ -1,0 +1,1 @@
+# gradle-early-dependency-evaluation
